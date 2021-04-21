@@ -1,0 +1,6 @@
+
+*.info
+Library/
+Temp/
+obj/
+Real-World-Weather.sln
